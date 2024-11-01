@@ -1,0 +1,77 @@
+h1{
+    color: black;
+    text-align: center;
+}
+
+#header{
+    background-color: rgb(145, 155, 151);
+    height: 120px;
+}
+
+body{
+    background-color: rgb(168, 150, 148);
+}
+
+.desk{
+    text-align: center;
+}
+
+.menu li{
+    display: inline;
+    margin: 30px;
+}
+
+.menu a{
+    margin-left: 250px;
+}
+
+.menu a:hover{
+    font-weight: bold;
+    color: brown;
+}
+
+.isi::first-letter{
+    color: blue;
+    font-size: 40px;
+}
+
+.foto{
+    background-color: black;
+}
+
+.foto img{
+    width: 24%;
+    height: 200px;
+
+}
+
+.gambar {
+    height: 200px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.menu li {
+    display: inline;
+    margin: 20px;
+}
+
+.promo {
+    text-align: center;
+}
+
+.promo h2 {
+    color: red;
+}
+
+.aplikasi li {
+    display: inline;
+    margin: 5px;
+    background-color: rgb(184, 174, 174);
+}
+
+.aplikasi a:hover {
+    color: rgb(212, 41, 41);
+    font-weight: bold;
+}
